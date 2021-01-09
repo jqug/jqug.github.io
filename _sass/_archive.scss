@@ -243,3 +243,19 @@
     }
   }
 }
+
+.publication_entry a {
+  background-color: #08c;
+  color: #fff;
+  padding: 3px 6px;
+  margin-top: 5px;
+  text-decoration: none;
+  border: 1px solid #fff;
+}
+
+.publication_entry a:hover {
+  background-color: #005580;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid #fff;
+}
